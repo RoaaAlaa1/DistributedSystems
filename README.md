@@ -9,7 +9,7 @@ The **server** coordinates messages between multiple clients by storing them in 
 ---
 
 ## 🎥 Running Project Recording
-📎 **Video Link:** https://drive.google.com/drive/folders/1rxpOQgimZl_f95hjcsTUI-_F2N4apOSL?dmr=1&ec=wgc-drive-hero-goto
+📎 **Video Link:** https://drive.google.com/file/d/1ckNe0_CZnIec6J65vgF7rYqGEk64p4o2/view?usp=drive_link
 ---
 
 ## 📁 Project Structure
