@@ -11,6 +11,8 @@ The **server** coordinates messages between multiple clients by storing them in 
 ## 🎥 Running Project Recording
 📎 **Video Link:** https://drive.google.com/file/d/1ckNe0_CZnIec6J65vgF7rYqGEk64p4o2/view?usp=drive_link
 ---
+## Documentation:
+ **Link:** https://docs.google.com/document/d/1QfDPwLTxlIbjqYN1OSKEfAmZJmmJx0F5DKp65dTMcZk/edit?usp=sharing
 
 ## 📁 Project Structure
 ├── client.go # Client-side code that connects to the server and sends messages
